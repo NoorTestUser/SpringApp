@@ -12,7 +12,7 @@ public class SimpleSbApplication {
 
 	public static void main(String[] args) {
 
-		LOG.info("Application started on 2nd attempt through webhook");
+		LOG.info("Application started on 2nd attempt through webhook....");
 		SpringApplication.run(SimpleSbApplication.class, args);
 	}
 
