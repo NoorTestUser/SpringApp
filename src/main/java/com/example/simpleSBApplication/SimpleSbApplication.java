@@ -12,7 +12,7 @@ public class SimpleSbApplication {
 
 	public static void main(String[] args) {
 
-		LOG.info("Application started on comit for pipeline....");
+		LOG.info("Application started on commit for pipeline....");
 		SpringApplication.run(SimpleSbApplication.class, args);
 	}
 
